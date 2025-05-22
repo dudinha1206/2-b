@@ -2,8 +2,11 @@ body {
     background-color: seagreen;
 }
 h1{
-    color: black;font-weight: lighter; font-style: italic.;
+    color: black;
+    font-weight: lighter;
+     font-style: italic;
 }
 p{
-    color: beige; font-style: italic;
+    color: beige;
+     font-style: italic;
 }
