@@ -2,8 +2,8 @@ body {
     background-color: seagreen;
 }
 h1{
-    color: black;font-weight: lighter;
+    color: black;font-weight: lighter; font-style: italic.;
 }
 p{
-    color: beige; font-style: unset;
+    color: beige; font-style: italic;
 }
