@@ -1,9 +1,9 @@
 body {
-    background-color: darkolivegreen;
+    background-color: seagreen;
 }
 h1{
-    color: black;
+    color: black;font-weight: lighter;
 }
 p{
-    color: beige;
+    color: beige; font-style: unset;
 }
