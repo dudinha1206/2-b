@@ -20,6 +20,10 @@ h3 { color: darkgreen;
     font-weight: normal;
     font-style: italic;
 }
-. lista filme {
+. listafilme {
     text-align: right;
+}
+h5{ color: darkgreen;
+    font-weight: normal;
+    font-style: italic;
 }
