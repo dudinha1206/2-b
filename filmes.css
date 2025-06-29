@@ -1,11 +1,12 @@
 body {
     background-color: rgb(206, 200, 178);
-    text-align: center;
+    text-align: left;
 }
 h1{
     color: darkgreen;
     font-weight: normal;
      font-style: italic;
+     text-align: center;
 }
 p{
     color: black;
@@ -19,6 +20,7 @@ h4 { color: darkgreen;
 h3 { color: darkgreen;
     font-weight: normal;
     font-style: italic;
+    text-align: center;
 }
 .lista2{
     text-align: left;

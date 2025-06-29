@@ -1,11 +1,12 @@
 body {
     background-color: rgb(206, 200, 178);
-    text-align: center;
+    text-align: left;
 }
 h1{
     color: darkgreen;
     font-weight: normal;
      font-style: italic;
+     text-align: center;
 }
 p{
     color: black;
@@ -15,17 +16,15 @@ p{
 h2 { color: darkgreen;
     font-weight: normal;
     font-style: italic;
+    text-align: center;
 }
 h3 { color: darkgreen;
     font-weight: normal;
     font-style: italic;
+    text-align: center;
 }
 .lista{
     text-align: left;
-}
-h5{ color: darkgreen;
-    font-weight: normal;
-    font-style: italic;
 }
 image{
     width: 45%;
