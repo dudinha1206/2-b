@@ -19,7 +19,14 @@ h2{
 } 
 .lista{
     text-align: left;
+    background-color: whitesmoke;
+    border-left: 5px solid darkgreen;
+    color: darkgreen;
+
 }
 image{
     width: 45%;
+}
+footer a{
+    color: darkgreen;
 }
