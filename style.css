@@ -23,14 +23,16 @@ h3 { color: darkgreen;
     font-style: italic;
     text-align: center;
 }
-.lista{
-    text-align: left;
-}
 image{
     width: 45%;
 }
 .lista2 {
     text-align: left;
+}
+footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 20px;
 }
 footer a{
     color: darkgreen;
